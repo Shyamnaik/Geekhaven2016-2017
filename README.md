@@ -58,6 +58,8 @@
 
 ##Graphics Wing
 ###Coordinators:
+* [Shyamnaik](https://github.com/Shyamnaik)
+
 
 
 ###Members:
