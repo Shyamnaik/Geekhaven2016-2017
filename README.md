@@ -54,7 +54,10 @@
 
 ##Graphics Wing
 ###Coordinators:
-
+ *[Shyamnaik](https://www.github.com/Shyamnaik)
+   
 
 ###Members:
+*[Rupesh Pawar](https://www.github.com/rupeshpawar007)
+
 
