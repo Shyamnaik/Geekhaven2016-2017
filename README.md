@@ -58,7 +58,7 @@
 
 ##Graphics Wing
 ###Coordinators:
-
+ [Shyam Naik](https://github.com/Shyamnaik)
 
 ###Members:
 * [Jayesh Patil](https://github.com/Donny97)
